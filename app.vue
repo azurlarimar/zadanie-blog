@@ -57,14 +57,6 @@ h6 {
   }
 }
 
-/* Pagination */
-.blog-pagination {
-  margin-bottom: 4rem;
-}
-
-/*
-		 * Footer
-		 */
 .blog-footer {
   padding: 2.5rem 0;
   color: #727272;
